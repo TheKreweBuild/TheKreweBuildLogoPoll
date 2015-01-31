@@ -1,3 +1,9 @@
+# Poll Closed
+
+The Krewe has spoken and logo winning logo can be found here 
+[TheKreweOfBuildGraphicalResources](https://github.com/TheKreweBuild/TheKreweOfBuildGraphicalResources)
+
+
 # TheKreweBuildLogoPoll
 ##Logo 1
 ![Logo 1](https://raw.githubusercontent.com/TheKreweBuild/TheKreweBuildLogoPoll/master/img/LR/Candidate4.png)
